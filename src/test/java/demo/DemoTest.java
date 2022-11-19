@@ -11,6 +11,9 @@ public class DemoTest {
 		
 		System.out.println("HI This is wasm 6 Franmework!!!");
 		
+		System.out.println("Hi");
+		
+		
 	}
 
 }
