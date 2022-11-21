@@ -13,7 +13,7 @@ public class SampleTest {
 		
 		System.out.println("Hi is User 1- Second Commit");
 		
-		
+		System.out.println("Hi");
 		
 		
 		
